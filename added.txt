@@ -1,4 +1,0 @@
-WTF
-Test github multiple accounts
-WTF
->>>>>>> 56934b39ce01624c894ebc8f6034fbdb1ade410c
