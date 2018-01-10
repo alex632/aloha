@@ -1,1 +1,2 @@
+# what is this?
 git config hooks.allownonascii false
